@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResourceDictionary
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <Style x:Key="Frame1" TargetType="Frame">
+                <Setter Property="CornerRadius"
+                        Value="50"/>
+                <Setter Property="Padding"
+                        Value="0"/>
+                <Setter Property="HorizontalOptions"
+                        Value="Center"/>
+                <Setter Property="VerticalOptions"
+                        Value="Center"/>
+                <Setter Property="HeightRequest"
+                        Value="100"/>
+                <Setter Property="WidthRequest"
+                        Value="100"/>
+                <Setter Property="HasShadow"
+                        Value="False"/>
+                <Setter Property="BackgroundColor"
+                        Value="{StaticResource Frame1_BackgroundColor}"/>
+                <Setter Property="BorderColor"
+                        Value="{StaticResource Frame1_bordercolor}"/>
+            </Style>
+
+            <Style x:Key="Label_center" TargetType="Label">
+                <Setter Property="HorizontalTextAlignment"
+                        Value="Center"/>
+                <Setter Property="VerticalTextAlignment"
+                        Value="Center"/>
+            </Style>
+
+            <Style x:Key="Span_frame1" TargetType="Span">
+                <Setter Property="FontAttributes"
+                        Value="Bold"/>
+                <Setter Property="TextColor"
+                        Value="{StaticResource Text_color}"/>
+                <Setter Property="FontSize"
+                        Value="32"/>
+            </Style>
+
+            <Style x:Key="span_frame1_qaqi" TargetType="Span">
+                <Setter Property="FontSize"
+                        Value="12"/>
+                <Setter Property="TextColor"
+                        Value="{StaticResource Text_color_qaqi}"/>
+            </Style>
+
+            <Style x:Key="label_air_condition" TargetType="Label">
+                <Setter Property="FontSize"
+                        Value="20"/>
+                <Setter Property="TextColor"
+                        Value="{StaticResource Text_color}"/>
+                <Setter Property="FontAttributes"
+                        Value="Bold"/>
+                <Setter Property="HorizontalTextAlignment"
+                        Value="Center"/>
+            </Style>
+
+            <Style x:Key="label_safety" TargetType="Label">
+                <Setter Property="FontSize"
+                        Value="14"/>
+                <Setter Property="TextColor"
+                        Value="{StaticResource Text_color}"/>
+            </Style>
+
+            <Style x:Key="boxView_1" TargetType="BoxView">
+                <Setter Property="HeightRequest"
+                        Value="1"/>
+                <Setter Property="HorizontalOptions"
+                        Value="Fill"/>
+                <Setter Property="BackgroundColor"
+                        Value="{StaticResource BoxView_BackgroungColor}"/>
+            </Style>
+
+            <Style x:Key="span_pm_value" TargetType="Span">
+                <Setter Property="TextColor"
+                        Value="{StaticResource Text_color}"/>
+                <Setter Property="FontSize"
+                        Value="20"/>
+            </Style>
+
+            <Style x:Key="span_pm_unit" TargetType="Span">
+                <Setter Property="TextColor"
+                        Value="{StaticResource Text_color}"/>
+                <Setter Property="FontSize"
+                        Value="14"/>
+            </Style>
+
+            <Style x:Key="boxView_2" TargetType="BoxView">
+                <Setter Property="Grid.Column"
+                        Value="1"/>
+                <Setter Property="VerticalOptions"
+                        Value="Fill"/>
+                <Setter Property="HorizontalOptions"
+                        Value="Center"/>
+                <Setter Property="WidthRequest"
+                        Value="1"/>
+                <Setter Property="BackgroundColor"
+                        Value="{StaticResource BoxView_BackgroungColor}"/>
+            </Style>
+
+            <Style x:Key="label_humidity_pressure_value" TargetType="Label">
+                <Setter Property="TextColor"
+                        Value="{StaticResource Text_color}"/>
+                <Setter Property="FontSize"
+                        Value="20"/>
+            </Style>
+
+            <Style x:Key="slider_humidity" TargetType="Slider">
+                <Setter Property="MaximumTrackColor"
+                        Value="{StaticResource Slider_humidity_MaxtrackColor}"/>
+                <Setter Property="MinimumTrackColor"
+                        Value="{StaticResource Slider_humidity_MintrackColor}"/>
+                <Setter Property="ThumbColor"
+                        Value="{StaticResource Slider_humidity_ThumbColor}"/>
+            </Style>
+
+            <Style x:Key="slider_pressure" TargetType="Slider">
+                <Setter Property="Maximum"
+                        Value="1100"/>
+                <Setter Property="Minimum"
+                        Value="900"/>
+                <Setter Property="MaximumTrackColor"
+                        Value="{StaticResource Slider_Pressure_MaxtrackColor}"/>
+                <Setter Property="MinimumTrackColor"
+                        Value="{StaticResource Slider_Pressure_MintrackColor}"/>
+                <Setter Property="ThumbColor"
+                        Value="{StaticResource Slider_Pressure_ThumbColor}"/>
+            </Style>
+
+            <Style x:Key="imageButton_1" TargetType="ImageButton">
+                <Setter Property="Padding"
+                        Value="12,24"/>
+                <Setter Property="HorizontalOptions"
+                        Value="End"/>
+                <Setter Property="VerticalOptions"
+                        Value="Start"/>
+                <Setter Property="WidthRequest"
+                        Value="48"/>
+                <Setter Property="HeightRequest"
+                        Value="72"/>
+                <Setter Property="BackgroundColor"
+                        Value="{StaticResource ImageButton_BackgroundColor}"/>
+                <Setter Property="Source"
+                        Value="baseline_help_outline_black_24.png"/>
+            </Style>
+
+</ResourceDictionary>

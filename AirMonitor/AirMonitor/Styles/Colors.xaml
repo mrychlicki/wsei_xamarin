@@ -1,0 +1,17 @@
+﻿<ResourceDictionary
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+            <Color x:Key="Frame1_BorderColor">Gray</Color>
+            <Color x:Key="Frame1_BackgroundColor">#33f069</Color>
+            <Color x:Key="Text_color">Black</Color>
+            <Color x:Key="Text_color_qaqi">DarkSlateGray</Color>
+            <Color x:Key="BoxView_BackgroungColor">LightGray</Color>
+            <Color x:Key="Slider_humidity_MaxtrackColor">Gray</Color>
+            <Color x:Key="Slider_humidity_MintrackColor">CornflowerBlue</Color>
+            <Color x:Key="Slider_humidity_ThumbColor">CornflowerBlue</Color>
+            <Color x:Key="Slider_Pressure_MaxtrackColor">Gray</Color>
+            <Color x:Key="Slider_Pressure_MintrackColor">CornflowerBlue</Color>
+            <Color x:Key="Slider_Pressure_ThumbColor">CornflowerBlue</Color>
+            <Color x:Key="ImageButton_BackgroundColor">Transparent</Color>
+</ResourceDictionary>
+ 
