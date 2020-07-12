@@ -1,35 +1,19 @@
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2\wsei-xamarin-lab2\AirMonitor\AirMonitor\bin\Debug\netstandard2.0\AirMonitor.deps.json
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2\wsei-xamarin-lab2\AirMonitor\AirMonitor\bin\Debug\netstandard2.0\AirMonitor.dll
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2\wsei-xamarin-lab2\AirMonitor\AirMonitor\bin\Debug\netstandard2.0\ref\AirMonitor.dll
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2\wsei-xamarin-lab2\AirMonitor\AirMonitor\bin\Debug\netstandard2.0\AirMonitor.pdb
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\AirMonitor.csprojAssemblyReference.cache
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\Views\Controls\ContentWithHeader.xaml.g.cs
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\AirMonitor.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\AirMonitor.AssemblyInfo.cs
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\XamlC.stamp
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\AirMonitor.dll
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\ref\AirMonitor.dll
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\AirMonitor.pdb
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\Colors.xaml.g.cs
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\Styles.xaml.g.cs
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\AirMonitor.csprojAssemblyReference.cache
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\Styles\Colors.xaml.g.cs
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\Styles\Styles.xaml.g.cs
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\Views\Controls\ContentWithHeader.xaml.g.cs
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\Views\DetailsPage.xaml.g.cs
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\AirMonitor.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\AirMonitor.AssemblyInfo.cs
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\AirMonitor.dll
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\ref\AirMonitor.dll
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\AirMonitor.pdb
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\bin\Debug\netstandard2.0\AirMonitor.deps.json
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\bin\Debug\netstandard2.0\AirMonitor.dll
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\bin\Debug\netstandard2.0\ref\AirMonitor.dll
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\bin\Debug\netstandard2.0\AirMonitor.pdb
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\XamlC.stamp
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\Views\SettingsPage.xaml.g.cs
-C:\Users\user\Desktop\xamarin\wsei-xamarin-lab2  moja\wsei-xamarin-lab2\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\Views\TabbedPage1.xaml.g.cs
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\bin\Debug\netstandard2.0\AirMonitor.deps.json
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\bin\Debug\netstandard2.0\AirMonitor.dll
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\bin\Debug\netstandard2.0\ref\AirMonitor.dll
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\bin\Debug\netstandard2.0\AirMonitor.pdb
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\AirMonitor.csprojAssemblyReference.cache
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\Styles\Colors.xaml.g.cs
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\Styles\Styles.xaml.g.cs
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\Views\Controls\ContentWithHeader.xaml.g.cs
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\Views\DetailsPage.xaml.g.cs
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\Views\RootTabbedPage.xaml.g.cs
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\Views\SettingsPage.xaml.g.cs
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\AirMonitor.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\AirMonitor.AssemblyInfo.cs
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\AirMonitor.dll
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\ref\AirMonitor.dll
+C:\Users\user\Desktop\xamarin\wsei-xamarin-lab5\wsei-xamarin-lab5\AirMonitor\AirMonitor\obj\Debug\netstandard2.0\AirMonitor.pdb

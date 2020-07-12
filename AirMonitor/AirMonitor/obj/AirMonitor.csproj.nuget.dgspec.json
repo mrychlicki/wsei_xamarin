@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\xamarin\\wsei-xamarin-lab2  moja\\wsei-xamarin-lab2\\AirMonitor\\AirMonitor\\AirMonitor.csproj": {}
+    "C:\\Users\\user\\Desktop\\xamarin\\wsei-xamarin-lab5\\wsei-xamarin-lab5\\AirMonitor\\AirMonitor\\AirMonitor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\xamarin\\wsei-xamarin-lab2  moja\\wsei-xamarin-lab2\\AirMonitor\\AirMonitor\\AirMonitor.csproj": {
+    "C:\\Users\\user\\Desktop\\xamarin\\wsei-xamarin-lab5\\wsei-xamarin-lab5\\AirMonitor\\AirMonitor\\AirMonitor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\xamarin\\wsei-xamarin-lab2  moja\\wsei-xamarin-lab2\\AirMonitor\\AirMonitor\\AirMonitor.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\xamarin\\wsei-xamarin-lab5\\wsei-xamarin-lab5\\AirMonitor\\AirMonitor\\AirMonitor.csproj",
         "projectName": "AirMonitor",
-        "projectPath": "C:\\Users\\user\\Desktop\\xamarin\\wsei-xamarin-lab2  moja\\wsei-xamarin-lab2\\AirMonitor\\AirMonitor\\AirMonitor.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\xamarin\\wsei-xamarin-lab5\\wsei-xamarin-lab5\\AirMonitor\\AirMonitor\\AirMonitor.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\xamarin\\wsei-xamarin-lab2  moja\\wsei-xamarin-lab2\\AirMonitor\\AirMonitor\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\xamarin\\wsei-xamarin-lab5\\wsei-xamarin-lab5\\AirMonitor\\AirMonitor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -49,6 +49,10 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.3.1, )"
@@ -56,6 +60,10 @@
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[4.3.0.908675, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.6.292, )"
             }
           },
           "imports": [
