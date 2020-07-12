@@ -744,11 +744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\xamarin\\wsei-xamarin-lab5\\wsei-xamarin-lab5\\AirMonitor\\AirMonitor\\AirMonitor.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\wsei_xamarin\\wsei_xamarin\\AirMonitor\\AirMonitor\\AirMonitor.csproj",
       "projectName": "AirMonitor",
-      "projectPath": "C:\\Users\\user\\Desktop\\xamarin\\wsei-xamarin-lab5\\wsei-xamarin-lab5\\AirMonitor\\AirMonitor\\AirMonitor.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\wsei_xamarin\\wsei_xamarin\\AirMonitor\\AirMonitor\\AirMonitor.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\xamarin\\wsei-xamarin-lab5\\wsei-xamarin-lab5\\AirMonitor\\AirMonitor\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\wsei_xamarin\\wsei_xamarin\\AirMonitor\\AirMonitor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

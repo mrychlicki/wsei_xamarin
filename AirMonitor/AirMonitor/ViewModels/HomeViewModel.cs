@@ -237,7 +237,7 @@ namespace AirMonitor.ViewModels
                         var content = await response.Content.ReadAsStringAsync();
                         var result = JsonConvert.DeserializeObject<T>(content);
                         return result;
-                    case 429: // too many requests
+                    case 429:
                         System.Diagnostics.Debug.WriteLine("Too many requests");
                         break;
                     default:
@@ -281,7 +281,7 @@ namespace AirMonitor.ViewModels
 
                 return location;
             }
-            // Handle different exceptions separately, for example to display different messages to the user
+            
             catch (FeatureNotSupportedException ex)
             {
                 System.Diagnostics.Debug.WriteLine(ex);
